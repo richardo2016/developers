@@ -9,6 +9,7 @@
 [EGOIST](https://egoistian.com)|[@egoist](https://github.com/egoist)|`Vue` `Electron` `Webpack` `Open Source`
 [codedoc](http://i.justpic.org)|[@matrixorz](https://github.com/matrixorz)|`Vue` `AngularJs` `Ionic` `Open Source`
 [Nocti](http://nocti.work)|[@noctiomg](https://github.com/noctiomg)|`Vue` `CreateJS`
+[shinygang](http://shinygang.cn)|[@shinygang](https://github.com/shinygang)|`Vue` `AngularJs` `Webpack` `React`
 
 ## License
 
