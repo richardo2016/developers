@@ -40,5 +40,16 @@
       "Webpack",
       "React"
     ]
+  },
+  {
+    "github": "richardo2016",
+    "name": "Richard",
+    "blog": "http://js.chenlei.me",
+    "tags": [
+      "Vue",
+      "Electron",
+      "Webpack",
+      "React"
+    ]
   }
 ]
